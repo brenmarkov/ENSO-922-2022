@@ -16,6 +16,7 @@ Digite 1 para realizar as operações de adição;
 Logo em seguida os dois (ou mais) números que deseja incluir na operação, separados por barra (/).
 
 Ex: 1/n/n...
+
 2/n/n
 
 ## EQUIPE RESPONSÁVEL PELA CALCULADORA:
