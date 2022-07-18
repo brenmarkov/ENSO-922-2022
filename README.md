@@ -4,7 +4,7 @@ Bem vindo ao nosso software!
 Apelidado por nós de "Calculadora HTML"
 
 ## OBJETIVO
-foi criado com objetivo de facilitar a vida daqueles que necessitam de fazer cálculos
+A calculadora foi criada com objetivo de facilitar a vida daqueles que necessitam de fazer cálculos
 sendo uma solução simples em forma de site HTML
 
 ## FORMAS DE USO DA CALCULADORA HTML
