@@ -25,10 +25,10 @@ Ex: 1/n/n...
 2/n/n
 
 ## EQUIPE RESPONSÁVEL PELA CALCULADORA:
--Brenda Pereira
+-`Brenda Pereira`
 
--Jamily dos Santos 
+-`Jamily dos Santos`
 
--Henrique Barbosa
+-`Henrique Barbosa`
 
--Samuel Cavalcante
+-`Samuel Cavalcante`
