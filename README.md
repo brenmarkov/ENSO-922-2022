@@ -2,7 +2,7 @@
 *Olá para todos os visitantes, apresentaremos a seguir o nosso projeto o qual o professor Fireman solicitou.*
 
 _Bem vindo ao nosso software!_
-_Apelidado por nós de "Calculadora HTML"_
+_Nomeado por nós de "Calculadora HTML"_
 
 ## OBJETIVO DA CALCULADORA
 *A calculadora foi criada com objetivo de facilitar a vida daqueles que necessitam de fazer cálculos*
