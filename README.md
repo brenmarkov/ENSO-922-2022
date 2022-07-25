@@ -23,7 +23,7 @@ Ex: `1/n/n...`
 `2/n/n`
 
 ## EQUIPE RESPONSÁVEL PELA CALCULADORA:
-- `Brenda Pereira`
+- `Brenda Markov`
 
 - `Jamily dos Santos`
 
