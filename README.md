@@ -1,7 +1,9 @@
 # BEM VINDO AO REPOSITÓRIO DA 922
+*Olá para todos os visitantes, apresentaremos a seguir o nosso projeto o qual o professor Fireman solicitou.*
 
-Bem vindo ao nosso software!
-Apelidado por nós de "Calculadora HTML"
+_Bem vindo ao nosso software!_
+_Nomeado por nós de "Calculadora HTML"_
+
 
 ## OBJETIVO:
 A calculadora foi criada com objetivo de facilitar a vida daqueles que necessitam de fazer cálculos
@@ -17,14 +19,19 @@ Logo em seguida os dois (ou mais) números que deseja incluir na operação, sep
 
 Ex: 1/n/n... 
 
-2/n/n
+Logo em seguida os dois (ou mais) números que deseja incluir na operação, separados por barra (/).
+
+Ex: `1/n/n...`
+
+`2/n/n`
 
 ## EQUIPE RESPONSÁVEL PELA CALCULADORA:
 
--Brenda Pereira - Aluna
+- `Brenda Markov`
 
--Jamily dos Santos - Aluna
+- `Jamily dos Santos`
 
--Henrique Barbosa - Aluno
+- `Henrique Barbosa`
 
--Samuel Cavalcante - Aluno lindo
+- `Samuel Cavalcante`
+
