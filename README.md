@@ -11,10 +11,14 @@ sendo uma solução simples em forma de site HTML
 
 Digite:
 
-`1` para `adição`;
-`2` para `subtração`;
-`3` para `multiplicação`;
-`4` para `divisão`;
+1 para realizar as operações de adição;
+
+2 para subtração;
+
+3 para multiplicação;
+
+4 para divisão;
+
 
 Logo em seguida os dois (ou mais) números que deseja incluir na operação, separados por barra (/).
 
@@ -23,6 +27,7 @@ Ex: `1/n/n...`
 `2/n/n`
 
 ## EQUIPE RESPONSÁVEL PELA CALCULADORA:
+
 - `Brenda Markov`
 
 - `Jamily dos Santos`
