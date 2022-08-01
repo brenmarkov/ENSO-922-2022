@@ -15,17 +15,20 @@ Digite:
 ´3´ para multiplicação;
 ´4´ para divisão;
 
+
+
 Logo em seguida os dois (ou mais) números que deseja incluir na operação, separados por barra (/).
 
-Ex: 1/n/n...
+Ex: `1/n/n...`
 
-2/n/n
+`2/n/n`
 
 ## EQUIPE RESPONSÁVEL PELA CALCULADORA:
--´Brenda Pereira´
 
--´Jamily dos Santos´ 
+- `Brenda Markov`
 
--´Henrique Barbosa´ 
+- `Jamily dos Santos`
 
--´Samuel Cavalcante´
+- `Henrique Barbosa`
+
+- `Samuel Cavalcante`
