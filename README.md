@@ -4,18 +4,20 @@
 _Bem vindo ao nosso software!_
 _Nomeado por nós de "Calculadora HTML"_
 
-## OBJETIVO DA CALCULADORA
-*A calculadora foi criada com objetivo de facilitar a vida daqueles que necessitam de fazer cálculos*
-_sendo uma solução simples em forma de site HTML_
 
-## FORMAS DE USO DA CALCULADORA HTML
-Digite:
-´1´ para realizar as operações de adição;
-´2´ para subtração;
-´3´ para multiplicação;
-´4´ para divisão;
+## OBJETIVO:
+A calculadora foi criada com objetivo de facilitar a vida daqueles que necessitam de fazer cálculos
+sendo uma solução simples em forma de site HTML
 
+## FORMAS DE USO DA CALCULADORA HTML:
+Digite 1 para realizar as operações de adição;
+2 para subtração;
+3 para multiplicação;
+4 para divisão;
 
+Logo em seguida os dois (ou mais) números que deseja incluir na operação, separados por barra (/).
+
+Ex: 1/n/n... 
 
 Logo em seguida os dois (ou mais) números que deseja incluir na operação, separados por barra (/).
 
@@ -32,3 +34,4 @@ Ex: `1/n/n...`
 - `Henrique Barbosa`
 
 - `Samuel Cavalcante`
+
